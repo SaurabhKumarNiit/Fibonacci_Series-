@@ -25,6 +25,8 @@ public class FibonacciSeries
     {
         FibonacciSeries fib = new FibonacciSeries();
         fib.printFibonacciSeries(10);
+        fib.printFibonacciSeries(5);
+        fib.printFibonacciSeries(8);
 
     }
 }
