@@ -1,5 +1,7 @@
 package main_work;
 
+
+
 public class FibonacciSeries
 {
     public long fibonacci(long number) {
